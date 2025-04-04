@@ -9,29 +9,17 @@ Features
 
 Usage
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/dhru0/Wordlist-Maker.git  
 cd Wordlist-Maker  
+
 Make the script executable (optional):
-
-bash
-Copy
-Edit
 chmod +x wordlist_maker.py
-Run the script:
 
-bash
-Copy
-Edit
+Run the script:
 python wordlist_maker.py  
 Or (if made executable):
 
-bash
-Copy
-Edit
+
 ./wordlist_maker.py
 Requirements
 Python 3.x
